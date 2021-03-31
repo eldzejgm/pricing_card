@@ -1,5 +1,5 @@
 # pricing_card
-<h1>EG PRICING CARD<h1>
+<h1>EG PRICING CARD</h1>
 
 THIS IS DARK THEME
 ![image](https://user-images.githubusercontent.com/78844172/113168318-d726ae80-9244-11eb-8e08-ebecf8454492.png)
